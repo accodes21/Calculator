@@ -67,12 +67,12 @@ button#equal{
     height: 130px;
 }
 
-/* .calculator{
+.calculator{
     background:white;
-} */
+}
 
 .calculator #display{
-    background-color:rgb(130, 126, 126);
+    background-color:white;
 }
 
 .calculator button#clear{
